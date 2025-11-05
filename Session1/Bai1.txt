@@ -1,0 +1,5 @@
+Bài tập: Nhận diện các loại hệ thống thông tin trong thực tế
+
+1. Giao dịch bán hàng: Hệ thống xử lý giao dịch (TPS)
+2. Phân tích xu hướng kinh doanh: Hệ thống hỗ trợ ra quyết định (DSS)
+3. Bảng tổng quan hiệu suất hàng tháng cho CEO: Hệ thống thông tin điều hành (EIS)

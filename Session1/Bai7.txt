@@ -1,0 +1,7 @@
+Bài tập: Áp dụng toàn bộ quy trình SDLC vào hệ thống thực tế
+Planning: Xác định mục tiêu xây dựng hệ thống hỗ trợ đăng ký tiêm chủng online, giúp người dân đăng ký và trung tâm y tế quản lý lịch tiêm dễ dàng. Lập kế hoạch thực hiện, phân công nhiệm vụ cho nhóm.
+Requirement Analysis: Thu thập yêu cầu từ người dùng (đăng ký, chọn mũi tiêm, xem lịch hẹn) và trung tâm y tế (quản lý danh sách, thống kê số lượng). Xác định chức năng, dữ liệu, yêu cầu bảo mật.
+System Design: Thiết kế giao diện web/app cho người dân và nhân viên y tế. Thiết kế cơ sở dữ liệu lưu thông tin người đăng ký, lịch tiêm, trạng thái tiêm.
+Implementation: Tiến hành lập trình các chức năng: đăng ký tài khoản, đặt lịch tiêm, cập nhật trạng thái, thống kê dữ liệu.
+Testing: Kiểm thử từng chức năng, kiểm tra lỗi logic và giao diện, đảm bảo hệ thống hoạt động ổn định.
+Deployment & Maintenance: Triển khai hệ thống cho trung tâm y tế sử dụng, hướng dẫn người dùng, bảo trì và nâng cấp khi có thay đổi về quy trình tiêm hoặc yêu cầu mới.

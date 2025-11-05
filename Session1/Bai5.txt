@@ -1,0 +1,5 @@
+Bài tập: Áp dụng SDLC cho hệ thống điểm danh sinh viên
+
+Planning: Xác định mục tiêu xây dựng hệ thống điểm danh bằng QR code giúp giảng viên và sinh viên điểm danh nhanh, chính xác, giảm thời gian thủ công. Lên kế hoạch phân công nhiệm vụ và thời gian thực hiện.
+Requirement Analysis: Thu thập yêu cầu từ giảng viên (tạo buổi học, xem danh sách điểm danh), sinh viên (quét mã QR để điểm danh), phòng đào tạo (thống kê báo cáo). Xác định yêu cầu chức năng và phi chức năng của hệ thống.
+System Design: Thiết kế giao diện ứng dụng cho giảng viên và sinh viên, thiết kế cơ sở dữ liệu lưu thông tin buổi học, sinh viên, mã QR và lịch sử điểm danh.

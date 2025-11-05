@@ -1,0 +1,7 @@
+Bài tập: Nhận diện thành phần hệ thống thông tin
+
+Con người: Khách hàng đặt món, tài xế giao hàng, nhân viên nhà hàng, quản trị hệ thống.
+Dữ liệu: Thông tin món ăn, giá, đơn hàng, vị trí giao hàng, lịch sử đặt món, tài khoản người dùng.
+Quy trình: Quy trình đặt món → xác nhận đơn → chuẩn bị → giao hàng → thanh toán → đánh giá.
+Phần mềm: Ứng dụng di động hoặc website đặt món, hệ thống quản lý đơn hàng, bản đồ định vị.
+Phần cứng: Điện thoại, máy chủ lưu trữ dữ liệu, thiết bị POS ở nhà hàng, GPS trên điện thoại tài xế.

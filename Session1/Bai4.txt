@@ -1,0 +1,8 @@
+Bài tập: Nhận diện giai đoạn trong SDLC
+
+Planning: Xác định mục tiêu của hệ thống điểm danh, phạm vi, yêu cầu và kế hoạch thực hiện dự án.
+Analysis: Thu thập và phân tích yêu cầu từ giảng viên, sinh viên; xác định chức năng cần có (điểm danh, xem lịch sử, báo cáo...).
+Design: Thiết kế giao diện ứng dụng, cơ sở dữ liệu lưu thông tin sinh viên và buổi học.
+Implementation: Lập trình chức năng điểm danh, đăng nhập, thống kê điểm danh.
+Testing: Kiểm thử ứng dụng, sửa lỗi, đảm bảo các chức năng hoạt động đúng.
+Deployment & Maintenance: Triển khai cho giảng viên và sinh viên sử dụng, bảo trì và cập nhật khi có yêu cầu mới.

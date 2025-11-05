@@ -1,0 +1,7 @@
+Bài tập: Chọn mô hình phát triển phù hợp
+
+Dự án A – chọn mô hình Thác nước (Waterfall) vì yêu cầu rõ ràng, ít thay đổi, dễ quản lý theo từng giai đoạn.
+Dự án B – chọn mô hình Agile vì cần linh hoạt, thay đổi thường xuyên theo phản hồi người dùng.
+Dự án C – chọn mô hình Xoắn ốc (Spiral) vì hệ thống phức tạp, cần đánh giá rủi ro và đảm bảo bảo mật cao.
+
+Hoặc Waterfall cho tất cả vì thầy Phước bảo thế =))
