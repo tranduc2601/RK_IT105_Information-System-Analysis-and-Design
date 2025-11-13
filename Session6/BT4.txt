@@ -1,0 +1,34 @@
+BÀI LÀM – Tổng hợp kiến thức hệ thống thông tin
+
+1. Loại hệ thống thông tin phù hợp
+
+Hệ thống quản lý giao hàng online phù hợp với các loại hệ thống sau:
+
+1. TPS – Transaction Processing System
+- Xử lý các nghiệp vụ lặp lại như tạo đơn, cập nhật trạng thái, ghi nhận giao dịch.
+
+2. MIS – Management Information System
+- Tổng hợp dữ liệu và tạo báo cáo quản lý như số đơn, tỷ lệ giao thành công, hiệu suất tài xế.
+
+3. DSS – Decision Support System
+- Phân tích tuyến đường, tối ưu lộ trình, dự đoán thời gian giao hàng.
+
+Kết luận phần 1:
+Hệ thống phù hợp nhất khi kết hợp TPS + MIS + DSS.
+
+
+2. Mô hình phát triển phần mềm phù hợp
+
+Mô hình phù hợp nhất: Agile – Scrum
+Lý do:
+- Nghiệp vụ logistics thay đổi liên tục.
+- Cần cập nhật, thử nghiệm và cải tiến nhanh.
+- Feedback từ tài xế và bộ phận điều phối rất quan trọng.
+
+Mô hình không phù hợp: Waterfall
+Lý do:
+- Không thể cố định toàn bộ yêu cầu từ đầu.
+- Không phù hợp cho hệ thống thời gian thực.
+
+Kết luận phần 2:
+Nên sử dụng Agile Scrum; Waterfall không phù hợp.
